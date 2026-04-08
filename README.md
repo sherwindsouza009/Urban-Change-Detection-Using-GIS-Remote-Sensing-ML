@@ -26,8 +26,8 @@ This project analyzes urban expansion in Southern Ontario (Toronto and surroundi
 
 ## Files
 
-* `6420_Lab5.ipynb` → Main analysis notebook
-* `6420_Lab5_Report_SherwinDsouza.pdf` → Full report
+* `UrbanChangeDetection.ipynb` → Main analysis notebook
+* `UrbanChangeDetection_Report.pdf` → Full report
 
 ## Limitations
 
